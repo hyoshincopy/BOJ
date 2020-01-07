@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main_¹éÁØ_6603_·Î¶Ç {
+public class Main_ë°±ì¤€_6603_ë¡œë˜ {
 	private static int[] data;
 	private static int[] lotto;
 	private static boolean[] visit;
