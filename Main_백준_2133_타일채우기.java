@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main_¹éÁØ_2133_Å¸ÀÏÃ¤¿ì±â {
+public class Main_ë°±ì¤€_2133_íƒ€ì¼ì±„ìš°ê¸° {
 	private static final int TILE = 30;
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
