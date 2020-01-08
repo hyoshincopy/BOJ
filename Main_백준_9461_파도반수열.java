@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main_백준_9461_파도열수열 {
+public class Main_백준_9461_파도반수열 {
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = null;
